@@ -6,7 +6,7 @@ def fizzbuzz(number):
     else:
         return number
     
-    
+print("ARBOx is awesome!")
 print(fizzbuzz(3))
 print(fizzbuzz(5))
 
