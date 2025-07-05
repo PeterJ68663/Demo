@@ -3,3 +3,10 @@ def fizzbuzz(number):
         return "fuzz"
     if number % 5 == 0:
         return "bizz"
+    else:
+        return number
+    
+    
+print(fizzbuzz(3))
+print(fizzbuzz(5))
+
