@@ -3,3 +3,4 @@ def fizzbuzz(number):
         return "fizz"
     if number % 5 == 0:
         return "buzz"
+    print("ARBOx is awesome!")
